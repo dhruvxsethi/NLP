@@ -6,11 +6,6 @@
  + Learnt Basic string processing with Python
  + Learnt about NLTK
 
-[Task 2]
- + Learnt about COCA
- + Saw mentions of a celebrity
- + Analysed the chart of mentions of the celebrity
-
 [Task 3]
  + Learnt about Corpora
  + Downloaded NLTK
